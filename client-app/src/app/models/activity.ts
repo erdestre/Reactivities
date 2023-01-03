@@ -1,4 +1,6 @@
-export interface activity {
+import { TextArea } from "semantic-ui-react";
+
+export interface Activity {
     id: string;
     title: string;
     date: string;
