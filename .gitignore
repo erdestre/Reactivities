@@ -5,6 +5,9 @@
 
 appsettings.json
 notes.txt
+.vscode
+
+
 # User-specific files
 *.rsuser
 *.suo

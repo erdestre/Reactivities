@@ -43,7 +43,7 @@ export default observer(function ActivityDetailedChat() {
                             </Comment.Actions>
                         </Comment.Content>
                     </Comment>
-
+                                            
                     <Form reply>
                         <Form.TextArea/>
                         <Button
